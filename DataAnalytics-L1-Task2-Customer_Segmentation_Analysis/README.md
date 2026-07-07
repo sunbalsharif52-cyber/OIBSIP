@@ -1,6 +1,5 @@
 # <b style="color: #8A2BE2;">Customer Segmentation Analysis Using RFM & K-Means</b>
 
-![Project Banner](customer_segmentation_banner.jpg) 
 
 ---
 
